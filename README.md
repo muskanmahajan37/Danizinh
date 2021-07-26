@@ -9,9 +9,6 @@ my name is Daniela I study programmation 1 year and a half I am attending the fi
 
 
 ## Tech
-
-Dillinger uses a number of open source projects to work properly:
-
 - [JavaScript]
 - [HTML / CSS]
 - [Ajax]
