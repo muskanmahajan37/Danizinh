@@ -11,7 +11,9 @@ my name is Daniela I study programmation 1 year and a half I am attending the fi
 ## Tech
 - [JavaScript]
 - [Python]
-- [HTML / CSS]
+- [Java]
+- [MySQL]
+- [HTML/CSS]
 - [Ajax]
 - [Gulp] 
 
