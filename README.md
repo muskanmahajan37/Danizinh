@@ -10,22 +10,11 @@ my name is Daniela I study programmation 1 year and a half I am attending the fi
 
 ## Tech
 - [JavaScript]
+- [Python]
 - [HTML / CSS]
 - [Ajax]
 - [Gulp] 
-- 
-
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
 
 
-## Development
 
-Want to contribute? Great!
 
-Dillinger uses Gulp + Webpack for fast developing.
-Make a change in your file and instantaneously see your updates!
-
-Open your favorite Terminal and run these commands.
-
-First Tab:
