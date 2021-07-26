@@ -1,4 +1,4 @@
-#  Print("Hello People")👩‍💻
+#  Print("Hello People") 👨‍💻
 ## _Come with me and get to know me a little_
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
