@@ -3,7 +3,7 @@
 
 my name is Daniela I study programmation 1 year and a half I am attending the first year of systems development analysis prepared for a great opportunity ahead and I know where I want to go. 
 
-- trust you 🎇
+- Trust you 🎇
 - Believe that everything is a matter of time
 - ✨Magic ✨
 
