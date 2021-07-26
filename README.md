@@ -1,5 +1,5 @@
 #  Print("Hello People")👩‍💻
-## _The Last Markdown Editor, Ever_
+## _come with me and get to know me a little_
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
